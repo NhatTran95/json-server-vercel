@@ -423,5 +423,31 @@
   ],
   "billDetails": [
     
+  ],
+  "customers": [
+    {
+        "id": 1,
+        "fullName": "Lenore Pruitt",
+        "email": "hucor@mailinator.com",
+        "phone": "+1 (459) 697-6702",
+        "address": "24 Nguyen Tri Phuong",
+        "balance": 0
+      },
+      {
+        "id": 2,
+        "fullName": "Dang Hieu",
+        "email": "hieu@mailinator.com",
+        "phone": "+1 (459) 697-4554",
+        "address": "24 Nguyen Hue",
+        "balance": 0
+      },
+      {
+        "id": 3,
+        "fullName": "Le Minh",
+        "email": "minh@mailinator.com",
+        "phone": "+1 (459) 697-6702",
+        "address": "25 Le Loi",
+        "balance": 0
+      }
   ]
 }
